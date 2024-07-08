@@ -1,1 +1,2 @@
 # MTGSplitDeckbox
+Split deckbox cadded in Onshape, mainly for Magic the Gathering commander decks (100 cards). Designed to be thinner to be easier to carry around in bags and backpacks by being around the size of a book.
